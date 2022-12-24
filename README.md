@@ -28,7 +28,7 @@
 
 ___Random uid___</br>
 
-![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/FB-KING/RNDM-FREE/blob/received_743380597208396.jpeg)
+![received_743380597208396.jpeg](https://github.com/FB-KING/RNDM-FREE/blob/received_743380597208396.jpeg)
 
 ## Find Me on :
 
