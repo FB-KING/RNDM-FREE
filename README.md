@@ -28,7 +28,7 @@
 
 ___Random uid___</br>
 
-![received_743380597208396.jpeg](https://github.com/FB-KING/RNDM-FREE/blob/received_743380597208396.jpeg)
+<img src="https://github.com/FB-KING/RNDM-FREE/blob/main/received_743380597208396.jpeg" />
 
 ## Find Me on :
 
